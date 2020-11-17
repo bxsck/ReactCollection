@@ -1,0 +1,57 @@
+{
+  "streams": [
+    {
+      "title": "Bosck",
+      "description": "Teerapat",
+      "id": 1
+    },
+    {
+      "title": "Bosck",
+      "description": "Teerapat",
+      "id": 2
+    },
+    {
+      "title": "Bosck",
+      "description": "Teerapat",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "description": "Test Desc",
+      "id": 4
+    },
+    {
+      "title": "Mook",
+      "description": "Manee",
+      "id": 5
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 6
+    },
+    {
+      "title": "Soho WTF",
+      "description": "DBDL",
+      "id": 7
+    },
+    {
+      "title": "New Stream",
+      "description": "Eieieieieieei",
+      "userId": "117354172862259086391",
+      "id": 8
+    },
+    {
+      "title": "unexpect behavior",
+      "description": "didnt expect that",
+      "userId": "117354172862259086391",
+      "id": 9
+    },
+    {
+      "title": "Stream10000",
+      "description": "asdadasdasdadasda",
+      "userId": "117354172862259086391",
+      "id": 10
+    }
+  ]
+}
