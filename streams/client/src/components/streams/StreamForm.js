@@ -1,5 +1,5 @@
 import React from 'react';
-import {Field, getFormMeta, reduxForm} from 'redux-form'; //Field -> F = capital -> reactcomponent | reduxFrom -> lowecercase r -> function
+import {Field, reduxForm} from 'redux-form'; //Field -> F = capital -> reactcomponent | reduxFrom -> lowecercase r -> function
 /* renderInput receive all props by <Field/> under component={this.renderInput} so {input} came from field*/
 class StreamForm extends React.Component{
     renderError({error,touched}){
